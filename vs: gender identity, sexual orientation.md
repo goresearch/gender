@@ -10,4 +10,4 @@
 - we should separating sexual orientation from gender identity [1]
 
 # References
-[1] Lisa Damour. Being Gay: The Slur and the Reality. Untangled. 2016
+[1]: Lisa Damour. Being Gay: The Slur and the Reality. Untangled. 2016
