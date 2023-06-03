@@ -1,3 +1,3 @@
-# Research topics:
+# Research topics
 - gender
 - sexuality
